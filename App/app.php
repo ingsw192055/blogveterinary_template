@@ -12,6 +12,5 @@ require_once( get_template_directory() . '/App/Structure/navs.php' );
 require_once( get_template_directory() . '/App/Structure/taxonomies.php' );
 
 require_once( get_template_directory() . '/App/Http/assets.php' );
-require_once( get_template_directory() . '/App/Http/ajaxes.php' );
 
 require_once( get_template_directory() . '/App/helpers.php' );
